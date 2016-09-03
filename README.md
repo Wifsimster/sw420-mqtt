@@ -6,8 +6,7 @@ This LUA script is for ESP8266 hardware.
 ##Files
 
 * ``config.lua``: Configuration variables
-* ``init.lua``: Connect to a wifi AP and then execute main.lua file
-* ``mqtt_function.lua``: Generic functions for MQTT broker
+* ``init.lua``: Connect to a wifi AP and then execute main.lua file=
 * ``main.lua``: Main file
 
 ## Principle
