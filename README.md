@@ -6,7 +6,7 @@ This LUA script is for ESP8266 hardware.
 ## Files
 
 * ``config.lua``: Configuration variables
-* ``init.lua``: Connect to a wifi AP and then execute main.lua file=
+* ``init.lua``: Connect to a wifi AP and then execute main.lua
 * ``main.lua``: Main file
 
 ## Principle
