@@ -1,7 +1,10 @@
-# Vibration sensor
-Send SW 420 data (level and amplitude) through an ESP8266 to a MQTT broker
+# Vibration sensor - SW420
 
-This LUA script is for ESP8266 hardware.
+> This LUA script is for ESP8266 hardware.
+
+## Description
+
+Send SW420 data (level and amplitude) through an ESP8266 to a MQTT broker.
 
 ## Files
 
